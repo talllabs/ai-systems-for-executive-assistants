@@ -87,7 +87,7 @@ export default function Home() {
                 href="#how-it-works"
                 variant="secondary"
                 size="lg"
-                className="bg-transparent text-white border-white/30 hover:bg-white/10 hover:border-white/50"
+                className="!bg-transparent !text-white !border-white/30 hover:!bg-white/10 hover:!border-white/50"
               >
                 Learn How It Works
               </Button>
